@@ -586,7 +586,7 @@ b i:last-child {
     left: 50%;
     margin-left: -12px;
     border-radius: 15px;
-    border: 2px solid #ffbf00;
+    border: 2px solid #770b00;
     -webkit-animation: intro 1s;
     animation: intro 1s;
 }
